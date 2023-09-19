@@ -28,3 +28,9 @@ A prioridade sempre será simplificar e agilizar a busca do cliente, então essa
 <img align="right" width="500" height="300" src="https://github.com/MateusMalvezzi/Sales_Overview/blob/main/BackgroundAndColors/filter.png">
 Visando facilitar a busca para o cliente, foi criado a opção de filtro, onde ele pode selecionar o produto, a região, cidade e a Ano/Trimestre/Mês desejado ao invés de clicar diretamente no dashboard.
 <br><br><br><br><br><br><br><br><br><br>
+
+## Ferramentas e linguagens utilizadas
+<div style="display: inline_block">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/MateusMalvezzi/Sales_Overview/blob/main/BackgroundAndColors/logo%20sql.png">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/MateusMalvezzi/Sales_Overview/blob/main/BackgroundAndColors/1200px-New_Power_BI_Logo.svg.png">
+</div>
