@@ -1,0 +1,14 @@
+{
+    "name": "Sales Overview Theme",
+    "dataColors": [
+                    "#29ABE2", 
+                    "#00FFFF", 
+                    "#2B332C", 
+                    "#626262",
+
+                    "#764076", 
+                    "#d59d5a", 
+                    "#4aa7c2", 
+                    "#F37F77"
+                ]
+}
