@@ -20,7 +20,7 @@ Principais medidas desenvolvidas; - Custos, Receitas, Margem, Volume (peso) das 
 <br><br><br><br><br><br><br>
 
 ## Tooltip
-<img align="left" width="500" height="350" src="https://github.com/MateusMalvezzi/Sales_Overview/blob/main/BackgroundAndColors/ToolTip.png">
+<img align="left" width="700" height="350" src="https://github.com/MateusMalvezzi/Sales_Overview/blob/main/BackgroundAndColors/ToolTip.png">
 A prioridade sempre será simplificar e agilizar a busca do cliente, então essa "tooltip" foi criada para visualizar a receita, custo e margem sem a necessidade de entrar no detalhamento geral.<br> Para conseguirmos visualizar, basta colocar o cursor do mouse em cima e ele retornará essa simplificação. 
 <br><br><br><br><br><br><br><br><br><br>
 
